@@ -1,9 +1,8 @@
-LINK AKUN - [NAMA ANDA] / [NIM]
+LINK AKUN - Clarita Vivana Mali / 202511420093
 Mata Kuliah: Komputasi Numerik
 
-GitHub                  : https://github.com/[username-github-anda]
-Repository              : https://github.com/[username-github-anda]/Komputasi-Numerik
-Google Colaboratory     : https://colab.research.google.com/   (akun Google: [email-anda]@gmail.com)
-LinkedIn                : https://www.linkedin.com/in/[username-linkedin-anda]
-
-Catatan: ganti semua teks dalam tanda [ ] dengan data asli Anda.
+GitHub           : https://github.com/vivanamali
+Repository       : https://github.com/vivanamali/KOMPUTASI-NUMERIK
+Colab SPL        :https://colab.research.google.com/drive/14pPwoYVnqOuHqQip5FrlzGshwUu9-wcc?usp=sharing
+Colab Bisection  : https://colab.research.google.com/drive/1m4trVlCSFG8P1aUfpYzhZUANbN6VHrGf?usp=sharing
+LinkedIn         : [tempel tautan LinkedIn Anda]
