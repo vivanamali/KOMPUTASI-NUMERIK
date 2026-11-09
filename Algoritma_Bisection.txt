@@ -1,5 +1,5 @@
 ALGORITMA PENYELESAIAN PERSAMAAN NON LINEAR - METODE BISECTION
-Nama: [NAMA] | NIM: [NIM]
+Nama: Clarita Vivana Mali | NIM: 202511420093
 
 DASAR TEORI
   Jika f kontinu pada [a,b] dan f(a).f(b) < 0, maka ada minimal satu akar di dalam [a,b]
