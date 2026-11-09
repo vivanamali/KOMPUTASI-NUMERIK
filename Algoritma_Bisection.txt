@@ -1,0 +1,42 @@
+ALGORITMA PENYELESAIAN PERSAMAAN NON LINEAR - METODE BISECTION
+Nama: [NAMA] | NIM: [NIM]
+
+DASAR TEORI
+  Jika f kontinu pada [a,b] dan f(a).f(b) < 0, maka ada minimal satu akar di dalam [a,b]
+  (Teorema Nilai Antara). Selang dibagi dua berulang kali dan selalu dipilih setengah yang
+  masih memuat perubahan tanda.
+
+INPUT  : fungsi f(x), batas a dan b, toleransi tol, iterasi maksimum N
+OUTPUT : hampiran akar c, tabel iterasi, jumlah iterasi
+
+LANGKAH
+ 1. Mulai.
+ 2. Tentukan f(x), a, b, tol, N.
+ 3. Hitung f(a) dan f(b). Jika f(a).f(b) > 0, tampilkan "selang tidak valid" lalu Selesai.
+ 4. Untuk i = 1 sampai N:
+    4.1 c = (a + b) / 2
+    4.2 Hitung f(c)
+    4.3 galat = (b - a) / 2
+    4.4 Catat (i, a, b, c, f(c), galat)
+    4.5 Jika f(c) = 0 atau galat < tol, hentikan perulangan.
+    4.6 Jika f(a).f(c) < 0, maka b = c.
+        Jika tidak, a = c dan f(a) = f(c).
+ 5. Akar hampiran = c terakhir.
+ 6. Tampilkan akar, f(akar), tabel iterasi.
+ 7. Selesai.
+
+PSEUDOCODE
+  JIKA f(a)*f(b) > 0 MAKA STOP
+  ULANGI i <- 1..N
+      c <- (a+b)/2
+      JIKA f(c)=0 ATAU (b-a)/2 < tol MAKA BERHENTI
+      JIKA f(a)*f(c) < 0 MAKA b <- c
+      SELAIN ITU a <- c
+  CETAK c
+
+BANYAK ITERASI TEORITIS
+  n >= log2((b - a) / tol)
+  Contoh: (2-1)/1e-6 -> n >= 19,93 -> 20 iterasi
+
+CONTOH
+  f(x) = x^3 - x - 2 pada [1, 2], tol = 1e-6  ->  akar sekitar 1,52138

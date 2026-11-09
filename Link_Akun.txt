@@ -1,0 +1,9 @@
+LINK AKUN - [NAMA ANDA] / [NIM]
+Mata Kuliah: Komputasi Numerik
+
+GitHub                  : https://github.com/[username-github-anda]
+Repository              : https://github.com/[username-github-anda]/Komputasi-Numerik
+Google Colaboratory     : https://colab.research.google.com/   (akun Google: [email-anda]@gmail.com)
+LinkedIn                : https://www.linkedin.com/in/[username-linkedin-anda]
+
+Catatan: ganti semua teks dalam tanda [ ] dengan data asli Anda.

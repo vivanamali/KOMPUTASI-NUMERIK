@@ -1,0 +1,46 @@
+DAFTAR PROMPT AI - KOMPUTASI NUMERIK
+Nama: [NAMA] | NIM: [NIM]
+Platform AI: Claude (Anthropic)
+
+CATATAN: Isi file ini dengan prompt yang benar-benar Anda ketik. Prompt di bawah adalah
+contoh yang bisa disesuaikan; tambahkan atau ubah sesuai dialog Anda yang sebenarnya, dan
+tambahkan tanggal.
+
+=== A. SPL 3 VARIABEL ===
+Prompt 1 (tugas awal, diketik di Claude):
+  Menyalin seluruh instruksi tugas Komputasi Numerik (no. 1-13) dan meminta AI mengerjakan
+  algoritma, kode, penjelasan, serta naskah video sesuai instruksi.
+
+Prompt 2:
+  Buatkan algoritma penyelesaian sistem persamaan linear 3 variabel dengan eliminasi Gauss
+  dan partial pivoting, lengkap dengan langkah-langkah dan pseudocode, bahasa Indonesia.
+
+Prompt 3:
+  Ubah algoritma tadi menjadi kode Python untuk Google Colab, dipecah per cell agar bisa
+  dijalankan satu per satu, dengan verifikasi menggunakan numpy.linalg.solve.
+
+Prompt 4:
+  Tambahkan keterangan detail untuk setiap baris kode dan setiap cell.
+
+Prompt 5:
+  Tambahkan uji kasus matriks singular dan penjelasan singkat mengapa pivoting diperlukan.
+
+=== B. BISECTION ===
+Prompt 6:
+  Buatkan algoritma metode Bisection untuk mencari akar f(x) = x^3 - x - 2 pada [1,2],
+  lengkap dengan kriteria berhenti dan rumus jumlah iterasi teoritis.
+
+Prompt 7:
+  Buatkan kode Python Colab per cell untuk algoritma tersebut: tabel iterasi memakai pandas
+  dan grafik memakai matplotlib.
+
+Prompt 8:
+  Tambahkan keterangan detail untuk setiap baris kode.
+
+=== C. VIDEO ===
+Prompt 9:
+  Buatkan naskah penjelasan video maksimal 5 menit; 15-20 detik pertama dengan wajah, sisanya
+  slide dan layar Colab.
+
+REVISI PRIBADI (isi sendiri): tuliskan perubahan yang Anda lakukan, misalnya mengganti angka
+contoh, nama variabel, atau menambah kasus uji.
