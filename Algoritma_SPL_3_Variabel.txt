@@ -1,6 +1,6 @@
 ALGORITMA PENYELESAIAN SPL 3 VARIABEL
 Metode: Eliminasi Gauss dengan Partial Pivoting + Substitusi Mundur
-Nama: [NAMA] | NIM: [NIM]
+Nama: Clarita Vivana Mali | NIM: 202511420093
 
 BENTUK MASALAH
   a11 x + a12 y + a13 z = b1
