@@ -5,4 +5,4 @@ GitHub           : https://github.com/vivanamali
 Repository       : https://github.com/vivanamali/KOMPUTASI-NUMERIK
 Colab SPL        :https://colab.research.google.com/drive/14pPwoYVnqOuHqQip5FrlzGshwUu9-wcc?usp=sharing
 Colab Bisection  : https://colab.research.google.com/drive/1m4trVlCSFG8P1aUfpYzhZUANbN6VHrGf?usp=sharing
-LinkedIn         : [tempel tautan LinkedIn Anda]
+LinkedIn         : www.linkedin.com/in/vivana-mali-0b529144a
