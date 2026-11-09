@@ -1,5 +1,5 @@
 # Komputasi Numerik
-Nama: [NAMA] | NIM: [NIM]
+Nama: Clarita Vivana Mali | NIM: 202511420093
 
 | Berkas | Isi |
 |---|---|
